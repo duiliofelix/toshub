@@ -19,9 +19,10 @@
   },
   "pre-commit": "lint:staged",
   "dependencies": {
-    "expo": "^30.0.1",
-    "react": "16.3.1",
-    "react-native": "https://github.com/expo/react-native/archive/sdk-30.0.0.tar.gz"
+    "expo": "^32.0.0",
+    "prop-types": "^15.6.2",
+    "react": "16.5.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz"
   },
   "devDependencies": {
     "babel-eslint": "^7.0.0",
